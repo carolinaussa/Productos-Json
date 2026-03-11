@@ -1,0 +1,18 @@
+[
+    {
+        "vendedor": "jose",
+        "total": 3200000
+    },
+    {
+        "vendedor": "Ana",
+        "total": 2000000
+    },
+    {
+        "vendedor": "carlos",
+        "total": 800000
+    },
+    {
+        "vendedor": "Carlos",
+        "total": 600000
+    }
+]
